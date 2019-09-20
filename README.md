@@ -1,4 +1,4 @@
-# TextClassificationNLP
+# TextClassification
 
 - Performed text classification for the dataset of "20 news group dataset" having only 4 categories.
 - Performed tokenization, cleaning and POS tagging for the token words. 
